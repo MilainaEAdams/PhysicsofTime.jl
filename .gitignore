@@ -1,0 +1,18 @@
+# Local Julia configuration and caches
+/LocalPreferences.toml
+/.julia/
+
+# Coverage and allocation reports
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*.jl.*.mem
+/coverage/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# AI generated files
+Physics_of_Time_100_Stage_Student_Guide.pdf
+

@@ -1,0 +1,16 @@
+name = "PhysicsofTime"
+uuid = "c5e4a9bd-5c2f-4923-9692-5bc04958376a"
+version = "0.1.0"
+
+[deps]
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+
+[compat]
+Pluto = "1"
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
